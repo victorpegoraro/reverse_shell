@@ -21,7 +21,7 @@ help = """
 HELP:
 command:     function:
 
-dir          show all dirretorys and files
+dir          show all diretories and files
 cd           go to directory
 cd..         back directory
 download     download file
