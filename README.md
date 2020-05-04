@@ -28,6 +28,8 @@ same port to connect !!!
 
 when connect use the " help " function to show all commands
 
+----------------------------------------------------------
+
 Commands:
 
 dir ----->   show all diretories and files
