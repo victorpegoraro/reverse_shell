@@ -28,27 +28,25 @@ same port to connect !!!
 
 when connect use the " help " function to show all commands
 
-HELP:
+Commands:
 
-command:     function:
+dir ----->   show all diretories and files
 
-dir          show all diretories and files
+cd    ----->        go to directory
 
-cd           go to directory
+cd..    ----->      back directory
 
-cd..         back directory
+download  ----->    download file
 
-download     download file
+delfile  ----->     delete file
 
-delfile      delete file
+delfolder ----->    delete folder
 
-delfolder    delete folder
+sys    ----->       show system info
 
-sys          show system info
+cpu    ----->       show cpu info
 
-cpu          show cpu info
-
-exit         close program
+exit    ----->      close program
 
 --------------------------------------------------
 Knowledge is power !!!
